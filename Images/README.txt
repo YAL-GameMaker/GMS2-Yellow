@@ -1,0 +1,1 @@
+If something isn't seemingly recolored but still is in here, it is probably non-inheritable from default theme.
