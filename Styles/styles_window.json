@@ -1,0 +1,32 @@
+{
+	"window_left_frame": {
+		"focus_colour": "#FF37F0FF"
+	},
+	"window_right_frame": {
+		"focus_colour": "#FF37F0FF"
+	},
+	"window_bottom_left_frame": {
+		"focus_colour": "#FF37F0FF"
+	},
+	"window_bottom_frame": {
+		"focus_colour": "#FF37F0FF"
+	},
+	"window_bottom_right_frame": {
+		"focus_colour": "#FF37F0FF"
+	},
+	"border_top": {
+		"focus_colour": "#FF37F0FF"
+	},
+	"window_title_left": {
+		"focus_colour": "#FF181818"
+	},
+	"window_title_right": {
+		"focus_colour": "#FF37F0FF"
+	},
+	"window_title_fade": {
+		"focus_corner_colours": ["#FF181818","#FF37F0FF","#FF37F0FF","#FF181818"]
+	},
+	"window_title_bookmark": {
+		"focus_colour": "#FF37F0FF"
+	}
+}
