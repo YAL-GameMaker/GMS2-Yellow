@@ -1,14 +1,14 @@
 {
 	"link_label": {
-		colour: "#FF3BE1F7"
+		colour: "#FFF7E13B"
 	},
 	"link_label_active": {
-		colour: "#FF37F0FF"
+		colour: "#FFFFF037"
 	},
 	"progressbar_bar": {
-		colour: "#FF37F0FF"
+		colour: "#FFFFF037"
 	},
 	"ide_progressbar_bar": {
-		corner_colours: ["#FF37F0FF", "#FF37F0FF", "#FF3BE1F7", "#FF3BE1F7"]
+		corner_colours: ["#FFFFF037", "#FFFFF037", "#FFF7E13B", "#FFF7E13B"]
 	}
 }

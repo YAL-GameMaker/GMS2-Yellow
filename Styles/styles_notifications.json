@@ -1,8 +1,8 @@
 {
 	"notification_title_label": {
-		colour: "#FF37F0FF"
+		colour: "#FFFFF037"
 	},
 	"notification_button_unread": {
-		icon_colour: "#FF37F0FF"
+		icon_colour: "#FFFFF037"
 	}
 }

@@ -1,8 +1,8 @@
 {
     "onion_bracket_left": {
-        colour: "#FF37F0FF"
+        colour: "#FFFFF037"
     },
     "onion_bracket_right": {
-        colour: "#FF37F0FF"
+        colour: "#FFFFF037"
 	}
 }
